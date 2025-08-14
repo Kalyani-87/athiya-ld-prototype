@@ -1,0 +1,52 @@
+[
+  {
+    "q": "Which is typically a high‑context culture?",
+    "options": [
+      "USA",
+      "Germany",
+      "Japan"
+    ],
+    "answer": 2,
+    "explain": "Japan relies more on context and shared understanding."
+  },
+  {
+    "q": "Your client is silent after your proposal. Best first interpretation?",
+    "options": [
+      "They agree completely",
+      "They are processing and may share later",
+      "They dislike you"
+    ],
+    "answer": 1,
+    "explain": "Silence can signal reflection in many cultures."
+  },
+  {
+    "q": "What’s the safest way to confirm understanding?",
+    "options": [
+      "Ask ‘Do you understand?’",
+      "Ask them to summarize next steps",
+      "Repeat yourself louder"
+    ],
+    "answer": 1,
+    "explain": "A recap in their words reveals alignment."
+  },
+  {
+    "q": "Which message avoids idioms?",
+    "options": [
+      "Let’s touch base and knock this out of the park",
+      "Please share the latest numbers and risks by Friday",
+      "We’ll circle back after we crush it"
+    ],
+    "answer": 1,
+    "explain": "Clear, literal phrasing travels better."
+  },
+  {
+    "q": "When feedback must be critical for a Japanese team, you should…",
+    "options": [
+      "Deliver blunt points first",
+      "Sandwich critique with positives and specifics",
+      "Avoid feedback entirely"
+    ],
+    "answer": 1,
+    "explain": "A diplomatic ‘feedback sandwich’ lands better in indirect cultures."
+  }
+]
